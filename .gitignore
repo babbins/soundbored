@@ -54,3 +54,10 @@ buck-out/
 
 # Bundle artifact
 *.jsbundle
+
+# Expo
+\.expo/
+\.expo-shared/
+
+#VSCode
+\.vscode/
